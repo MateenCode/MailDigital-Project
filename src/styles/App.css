@@ -1,0 +1,38 @@
+body{
+	 background: url(http://www.timurtek.com/wp-content/uploads/2014/10/form-bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Comic Sans MS;
+}
+
+h2{
+  text-align: center;
+  font-family: Comic Sans MS;
+  color: #e67e22;
+  font-size: 58px;
+  margin: 10px;
+  opacity: 0.9;
+}
+
+.mailIcon{
+  height: 120px;
+  width: 160px;
+  display: block;
+  margin: 0 auto;
+}
+
+.container{
+  margin-top: 10%;
+  width: 45%;
+  opacity: 0.9;
+}
+
+.jumbotron{
+background: #ecf0f1;
+}
+
+#signUpBtn{
+margin-left: 66%;
+}
